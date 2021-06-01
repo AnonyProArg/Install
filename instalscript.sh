@@ -191,4 +191,3 @@ ICAgIDs7CiAgICBlc2FjCgkKc2xlZXAgMQojIyBSZXN0b3JlIHdvcmtpbmcgZGlyZWN0b3J5CmNs
 ZWFyCmNkICYmIC4vVlBTLUFSRwo=
 DIXIE
 source ${CesarHackGray}
-rm -rf ${CesarHackGray}
